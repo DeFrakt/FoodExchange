@@ -1,4 +1,4 @@
-===FoodExchange===
+## Food Exchange
 
 MongoDB - Express.js - Angular - Node.js
 
